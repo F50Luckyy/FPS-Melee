@@ -520,16 +520,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5207cf721c3eee548805adb8c79fa636, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  controller: {fileID: 256318767}
-  speed: 12
-  gravity: -19.62
-  jumpHeight: 3
-  groundCheck: {fileID: 1181914797}
-  groundDistance: 0.4
-  groundMask:
-    m_Bits: 64
-  velocity: {x: 0, y: 0, z: 0}
-  isGrounded: 0
 --- !u!114 &256318770
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -542,56 +532,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80d123c4d7bff8142b400438bb8a2531, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  controller: {fileID: 256318767}
-  GroundCheck: {fileID: 1181914797}
-  GroundMask:
-    m_Bits: 64
-  wishspeed2: 0
-  gravity: -20
-  wishspeed: 0
-  GroundDistance: 0.4
-  moveSpeed: 7
-  runAcceleration: 14
-  runDeacceleration: 10
-  airAcceleration: 2
-  airDeacceleration: 2
-  airControl: 0.3
-  sideStrafeAcceleration: 50
-  sideStrafeSpeed: 1
-  jumpSpeed: 8
-  friction: 6
-  playerTopVelocity: 0
-  playerFriction: 0
-  addspeed: 0
-  accelspeed: 0
-  currentspeed: 0
-  zspeed: 0
-  speed: 0
-  dot: 0
-  k: 0
-  accel: 0
-  newspeed: 0
-  control: 0
-  drop: 0
-  JumpQueue: 0
-  wishJump: 0
-  lastPos: {x: 0, y: 0, z: 0}
-  moved: {x: 0, y: 0, z: 0}
-  PlayerVel: {x: 0, y: 0, z: 0}
-  ModulasSpeed: 0
-  ZVelocity: 0
-  XVelocity: 0
-  moveDirection: {x: 0, y: 0, z: 0}
-  moveDirectionNorm: {x: 0, y: 0, z: 0}
-  playerVelocity: {x: 0, y: 0, z: 0}
-  wishdir: {x: 0, y: 0, z: 0}
-  vec: {x: 0, y: 0, z: 0}
-  playerView: {fileID: 0}
-  x: 0
-  z: 0
-  IsGrounded: 0
-  player: {fileID: 256318768}
-  udp: {x: 0, y: 0, z: 0}
 --- !u!114 &256318771
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1516,16 +1456,13 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fd144345401819648a915144867d1a21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotationDirections: 0
-  acceleration: {x: 0, y: 0}
-  sensitivity: {x: 0, y: 0}
-  maxVerticalAngleFromHorizon: 0
-  inputLagPeriod: 0
+  mouseSensitivity: 1
+  playerBody: {fileID: 625921773}
 --- !u!1001 &1000656393
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1749,7 +1686,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1181914797}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: Ground Check
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
