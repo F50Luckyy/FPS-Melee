@@ -134,6 +134,7 @@ GameObject:
   - component: {fileID: 256318768}
   - component: {fileID: 256318767}
   - component: {fileID: 256318769}
+  - component: {fileID: 256318770}
   m_Layer: 0
   m_Name: First Person Player
   m_TagString: Untagged
@@ -183,7 +184,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 256318766}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5207cf721c3eee548805adb8c79fa636, type: 3}
   m_Name: 
@@ -197,6 +198,48 @@ MonoBehaviour:
   groundMask:
     serializedVersion: 2
     m_Bits: 64
+--- !u!114 &256318770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 256318766}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80d123c4d7bff8142b400438bb8a2531, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controller: {fileID: 256318767}
+  GroundCheck: {fileID: 1181914797}
+  GroundMask:
+    serializedVersion: 2
+    m_Bits: 64
+  GroundDistance: 0.4
+  moveSpeed: 7
+  runAcceleration: 14
+  runDeacceleration: 10
+  airAcceleration: 2
+  airDeacceleration: 2
+  airControl: 0.3
+  sideStrafeAcceleration: 50
+  sideStrafeSpeed: 1
+  jumpSpeed: 8
+  friction: 6
+  playerFriction: 0
+  JumpQueue: 0
+  wishJump: 0
+  PlayerVel: {x: 0, y: 0, z: 0}
+  ModulasSpeed: 0
+  ZVelocity: 0
+  XVelocity: 0
+  moveDirection: {x: 0, y: 0, z: 0}
+  moveDirectionNorm: {x: 0, y: 0, z: 0}
+  playerView: {fileID: 0}
+  x: 0
+  z: 0
+  IsGrounded: 0
+  player: {fileID: 256318768}
 --- !u!4 &354489824 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8031339192871210686, guid: 3f9b178ccd3b86f4ebbfc1f5a2815e56, type: 3}
@@ -709,7 +752,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1181914796}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -1.812, z: 0}
+  m_LocalPosition: {x: 0, y: -1.876, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 256318768}
