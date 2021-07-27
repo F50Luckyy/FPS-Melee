@@ -527,8 +527,9 @@ MonoBehaviour:
   groundCheck: {fileID: 1181914797}
   groundDistance: 0.4
   groundMask:
-    serializedVersion: 2
     m_Bits: 64
+  velocity: {x: 0, y: 0, z: 0}
+  isGrounded: 0
 --- !u!114 &256318770
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -544,8 +545,10 @@ MonoBehaviour:
   controller: {fileID: 256318767}
   GroundCheck: {fileID: 1181914797}
   GroundMask:
-    serializedVersion: 2
     m_Bits: 64
+  wishspeed2: 0
+  gravity: -20
+  wishspeed: 0
   GroundDistance: 0.4
   moveSpeed: 7
   runAcceleration: 14
@@ -557,20 +560,38 @@ MonoBehaviour:
   sideStrafeSpeed: 1
   jumpSpeed: 8
   friction: 6
+  playerTopVelocity: 0
   playerFriction: 0
+  addspeed: 0
+  accelspeed: 0
+  currentspeed: 0
+  zspeed: 0
+  speed: 0
+  dot: 0
+  k: 0
+  accel: 0
+  newspeed: 0
+  control: 0
+  drop: 0
   JumpQueue: 0
   wishJump: 0
+  lastPos: {x: 0, y: 0, z: 0}
+  moved: {x: 0, y: 0, z: 0}
   PlayerVel: {x: 0, y: 0, z: 0}
   ModulasSpeed: 0
   ZVelocity: 0
   XVelocity: 0
   moveDirection: {x: 0, y: 0, z: 0}
   moveDirectionNorm: {x: 0, y: 0, z: 0}
+  playerVelocity: {x: 0, y: 0, z: 0}
+  wishdir: {x: 0, y: 0, z: 0}
+  vec: {x: 0, y: 0, z: 0}
   playerView: {fileID: 0}
   x: 0
   z: 0
   IsGrounded: 0
   player: {fileID: 256318768}
+  udp: {x: 0, y: 0, z: 0}
 --- !u!114 &256318771
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1497,7 +1518,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 963194225}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6db1f457616e9f446939849dd8baa2c2, type: 3}
+  m_Script: {fileID: 11500000, guid: fd144345401819648a915144867d1a21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rotationDirections: 0
