@@ -1,0 +1,2360 @@
+fileFormatVersion: 2
+guid: 0536f044bd409ff419dd726bc69d2676
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: B-chest
+  - first:
+      1: 100002
+    second: B-f_index_01_L
+  - first:
+      1: 100004
+    second: B-f_index_01_R
+  - first:
+      1: 100006
+    second: B-f_index_02_L
+  - first:
+      1: 100008
+    second: B-f_index_02_R
+  - first:
+      1: 100010
+    second: B-f_index_03_L
+  - first:
+      1: 100012
+    second: B-f_index_03_R
+  - first:
+      1: 100014
+    second: B-f_middle_01_L
+  - first:
+      1: 100016
+    second: B-f_middle_01_R
+  - first:
+      1: 100018
+    second: B-f_middle_02_L
+  - first:
+      1: 100020
+    second: B-f_middle_02_R
+  - first:
+      1: 100022
+    second: B-f_middle_03_L
+  - first:
+      1: 100024
+    second: B-f_middle_03_R
+  - first:
+      1: 100026
+    second: B-f_pinky_01_L
+  - first:
+      1: 100028
+    second: B-f_pinky_01_R
+  - first:
+      1: 100030
+    second: B-f_pinky_02_L
+  - first:
+      1: 100032
+    second: B-f_pinky_02_R
+  - first:
+      1: 100034
+    second: B-f_pinky_03_L
+  - first:
+      1: 100036
+    second: B-f_pinky_03_R
+  - first:
+      1: 100038
+    second: B-f_ring_01_L
+  - first:
+      1: 100040
+    second: B-f_ring_01_R
+  - first:
+      1: 100042
+    second: B-f_ring_02_L
+  - first:
+      1: 100044
+    second: B-f_ring_02_R
+  - first:
+      1: 100046
+    second: B-f_ring_03_L
+  - first:
+      1: 100048
+    second: B-f_ring_03_R
+  - first:
+      1: 100050
+    second: B-foot_L
+  - first:
+      1: 100052
+    second: B-foot_R
+  - first:
+      1: 100054
+    second: B-forearm_L
+  - first:
+      1: 100056
+    second: B-forearm_R
+  - first:
+      1: 100058
+    second: B-hand_L
+  - first:
+      1: 100060
+    second: B-hand_R
+  - first:
+      1: 100062
+    second: B-head
+  - first:
+      1: 100064
+    second: B-hips
+  - first:
+      1: 100066
+    second: B-neck
+  - first:
+      1: 100068
+    second: B-palm_01_L
+  - first:
+      1: 100070
+    second: B-palm_01_R
+  - first:
+      1: 100072
+    second: B-palm_02_L
+  - first:
+      1: 100074
+    second: B-palm_02_R
+  - first:
+      1: 100076
+    second: B-palm_03_L
+  - first:
+      1: 100078
+    second: B-palm_03_R
+  - first:
+      1: 100080
+    second: B-palm_04_L
+  - first:
+      1: 100082
+    second: B-palm_04_R
+  - first:
+      1: 100084
+    second: B-shin_L
+  - first:
+      1: 100086
+    second: B-shin_R
+  - first:
+      1: 100088
+    second: B-shoulder_L
+  - first:
+      1: 100090
+    second: B-shoulder_R
+  - first:
+      1: 100092
+    second: B-spine
+  - first:
+      1: 100094
+    second: B-thigh_L
+  - first:
+      1: 100096
+    second: B-thigh_R
+  - first:
+      1: 100098
+    second: B-thumb_01_L
+  - first:
+      1: 100100
+    second: B-thumb_01_R
+  - first:
+      1: 100102
+    second: B-thumb_02_L
+  - first:
+      1: 100104
+    second: B-thumb_02_R
+  - first:
+      1: 100106
+    second: B-thumb_03_L
+  - first:
+      1: 100108
+    second: B-thumb_03_R
+  - first:
+      1: 100110
+    second: B-toe_L
+  - first:
+      1: 100112
+    second: B-toe_R
+  - first:
+      1: 100114
+    second: B-upper_arm_L
+  - first:
+      1: 100116
+    second: B-upper_arm_R
+  - first:
+      1: 100118
+    second: B-upperChest
+  - first:
+      1: 100120
+    second: //RootNode
+  - first:
+      1: 100122
+    second: DummySkeleton
+  - first:
+      1: 100124
+    second: root
+  - first:
+      1: 100126
+    second: B-jaw
+  - first:
+      1: 100128
+    second: DummyRig
+  - first:
+      1: 100130
+    second: LeftHandIK
+  - first:
+      1: 100132
+    second: LeftHandProp
+  - first:
+      1: 100134
+    second: Retargeters
+  - first:
+      1: 100136
+    second: RightHandIK
+  - first:
+      1: 100138
+    second: RightHandProp
+  - first:
+      4: 400000
+    second: B-chest
+  - first:
+      4: 400002
+    second: B-f_index_01_L
+  - first:
+      4: 400004
+    second: B-f_index_01_R
+  - first:
+      4: 400006
+    second: B-f_index_02_L
+  - first:
+      4: 400008
+    second: B-f_index_02_R
+  - first:
+      4: 400010
+    second: B-f_index_03_L
+  - first:
+      4: 400012
+    second: B-f_index_03_R
+  - first:
+      4: 400014
+    second: B-f_middle_01_L
+  - first:
+      4: 400016
+    second: B-f_middle_01_R
+  - first:
+      4: 400018
+    second: B-f_middle_02_L
+  - first:
+      4: 400020
+    second: B-f_middle_02_R
+  - first:
+      4: 400022
+    second: B-f_middle_03_L
+  - first:
+      4: 400024
+    second: B-f_middle_03_R
+  - first:
+      4: 400026
+    second: B-f_pinky_01_L
+  - first:
+      4: 400028
+    second: B-f_pinky_01_R
+  - first:
+      4: 400030
+    second: B-f_pinky_02_L
+  - first:
+      4: 400032
+    second: B-f_pinky_02_R
+  - first:
+      4: 400034
+    second: B-f_pinky_03_L
+  - first:
+      4: 400036
+    second: B-f_pinky_03_R
+  - first:
+      4: 400038
+    second: B-f_ring_01_L
+  - first:
+      4: 400040
+    second: B-f_ring_01_R
+  - first:
+      4: 400042
+    second: B-f_ring_02_L
+  - first:
+      4: 400044
+    second: B-f_ring_02_R
+  - first:
+      4: 400046
+    second: B-f_ring_03_L
+  - first:
+      4: 400048
+    second: B-f_ring_03_R
+  - first:
+      4: 400050
+    second: B-foot_L
+  - first:
+      4: 400052
+    second: B-foot_R
+  - first:
+      4: 400054
+    second: B-forearm_L
+  - first:
+      4: 400056
+    second: B-forearm_R
+  - first:
+      4: 400058
+    second: B-hand_L
+  - first:
+      4: 400060
+    second: B-hand_R
+  - first:
+      4: 400062
+    second: B-head
+  - first:
+      4: 400064
+    second: B-hips
+  - first:
+      4: 400066
+    second: B-neck
+  - first:
+      4: 400068
+    second: B-palm_01_L
+  - first:
+      4: 400070
+    second: B-palm_01_R
+  - first:
+      4: 400072
+    second: B-palm_02_L
+  - first:
+      4: 400074
+    second: B-palm_02_R
+  - first:
+      4: 400076
+    second: B-palm_03_L
+  - first:
+      4: 400078
+    second: B-palm_03_R
+  - first:
+      4: 400080
+    second: B-palm_04_L
+  - first:
+      4: 400082
+    second: B-palm_04_R
+  - first:
+      4: 400084
+    second: B-shin_L
+  - first:
+      4: 400086
+    second: B-shin_R
+  - first:
+      4: 400088
+    second: B-shoulder_L
+  - first:
+      4: 400090
+    second: B-shoulder_R
+  - first:
+      4: 400092
+    second: B-spine
+  - first:
+      4: 400094
+    second: B-thigh_L
+  - first:
+      4: 400096
+    second: B-thigh_R
+  - first:
+      4: 400098
+    second: B-thumb_01_L
+  - first:
+      4: 400100
+    second: B-thumb_01_R
+  - first:
+      4: 400102
+    second: B-thumb_02_L
+  - first:
+      4: 400104
+    second: B-thumb_02_R
+  - first:
+      4: 400106
+    second: B-thumb_03_L
+  - first:
+      4: 400108
+    second: B-thumb_03_R
+  - first:
+      4: 400110
+    second: B-toe_L
+  - first:
+      4: 400112
+    second: B-toe_R
+  - first:
+      4: 400114
+    second: B-upper_arm_L
+  - first:
+      4: 400116
+    second: B-upper_arm_R
+  - first:
+      4: 400118
+    second: B-upperChest
+  - first:
+      4: 400120
+    second: //RootNode
+  - first:
+      4: 400122
+    second: DummySkeleton
+  - first:
+      4: 400124
+    second: root
+  - first:
+      4: 400126
+    second: B-jaw
+  - first:
+      4: 400128
+    second: DummyRig
+  - first:
+      4: 400130
+    second: LeftHandIK
+  - first:
+      4: 400132
+    second: LeftHandProp
+  - first:
+      4: 400134
+    second: Retargeters
+  - first:
+      4: 400136
+    second: RightHandIK
+  - first:
+      4: 400138
+    second: RightHandProp
+  - first:
+      74: 7400000
+    second: BasicMotions@Run01 - Forwards
+  - first:
+      74: 7400002
+    second: BasicMotions@Run01 - ForwardsLeft
+  - first:
+      74: 7400004
+    second: BasicMotions@Run01 - ForwardsRight
+  - first:
+      74: 7400006
+    second: BasicMotions@Run01 - Left
+  - first:
+      74: 7400008
+    second: BasicMotions@Run01 - Right
+  - first:
+      74: 7400010
+    second: BasicMotions@Run01 - Backwards
+  - first:
+      74: 7400012
+    second: BasicMotions@Run01 - BackwardsLeft
+  - first:
+      74: 7400014
+    second: BasicMotions@Run01 - BackwardsRight
+  - first:
+      74: 7400016
+    second: BasicMotions@Run01_ClosedHands - Forwards
+  - first:
+      74: 7400018
+    second: BasicMotions@Run01_ClosedHands - ForwardsLeft
+  - first:
+      74: 7400020
+    second: BasicMotions@Run01_ClosedHands - ForwardsRight
+  - first:
+      74: 7400022
+    second: BasicMotions@Run01_ClosedHands - Left
+  - first:
+      74: 7400024
+    second: BasicMotions@Run01_ClosedHands - Right
+  - first:
+      74: 7400026
+    second: BasicMotions@Run01_ClosedHands - Backwards
+  - first:
+      74: 7400028
+    second: BasicMotions@Run01_ClosedHands - BackwardsLeft
+  - first:
+      74: 7400030
+    second: BasicMotions@Run01_ClosedHands - BackwardsRight
+  - first:
+      74: 7400032
+    second: BasicMotions@Run01 - Forwards [RM]
+  - first:
+      74: 7400034
+    second: BasicMotions@Run01 - ForwardsLeft [RM]
+  - first:
+      74: 7400036
+    second: BasicMotions@Run01 - ForwardsRight [RM]
+  - first:
+      74: 7400038
+    second: BasicMotions@Run01 - Left [RM]
+  - first:
+      74: 7400040
+    second: BasicMotions@Run01 - Right [RM]
+  - first:
+      74: 7400042
+    second: BasicMotions@Run01 - Backwards [RM]
+  - first:
+      74: 7400044
+    second: BasicMotions@Run01 - BackwardsLeft [RM]
+  - first:
+      74: 7400046
+    second: BasicMotions@Run01 - BackwardsRight [RM]
+  - first:
+      74: 7400048
+    second: BasicMotions@Walk01 - Forwards
+  - first:
+      74: 7400050
+    second: BasicMotions@Walk01 - ForwardsLeft
+  - first:
+      74: 7400052
+    second: BasicMotions@Walk01 - ForwardsRight
+  - first:
+      74: 7400054
+    second: BasicMotions@Walk01 - Left
+  - first:
+      74: 7400056
+    second: BasicMotions@Walk01 - Right
+  - first:
+      74: 7400058
+    second: BasicMotions@Walk01 - Backwards
+  - first:
+      74: 7400060
+    second: BasicMotions@Walk01 - BackwardsLeft
+  - first:
+      74: 7400062
+    second: BasicMotions@Walk01 - BackwardsRight
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Copied Avatar Rig Configuration mis-match. Transform hierarchy
+      does not match:\n\tTransform 'spine' for human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0
+    animationPositionError: 0
+    animationScaleError: 0
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: BasicMotions@Walk01 - Forwards
+      takeName: BasicMotions@Walk01 - Forwards
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DummyRig
+        weight: 1
+      - path: DummyRig/root
+        weight: 1
+      - path: DummyRig/root/B-hips
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck/B-head
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck/B-head/B-jaw
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L/B-f_index_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L/B-f_index_02_L/B-f_index_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L/B-thumb_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L/B-thumb_02_L/B-thumb_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L/B-f_middle_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L/B-f_middle_02_L/B-f_middle_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L/B-f_ring_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L/B-f_ring_02_L/B-f_ring_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L/B-f_pinky_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L/B-f_pinky_02_L/B-f_pinky_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R/B-f_index_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R/B-f_index_02_R/B-f_index_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R/B-thumb_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R/B-thumb_02_R/B-thumb_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R/B-f_middle_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R/B-f_middle_02_R/B-f_middle_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R/B-f_ring_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R/B-f_ring_02_R/B-f_ring_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R/B-f_pinky_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R/B-f_pinky_02_R/B-f_pinky_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L/B-foot_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L/B-foot_L/B-toe_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R/B-foot_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R/B-foot_R/B-toe_R
+        weight: 1
+      - path: Retargeters
+        weight: 1
+      - path: Retargeters/LeftHandIK
+        weight: 1
+      - path: Retargeters/LeftHandProp
+        weight: 1
+      - path: Retargeters/RightHandIK
+        weight: 1
+      - path: Retargeters/RightHandProp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BasicMotions@Walk01 - ForwardsLeft
+      takeName: BasicMotions@Walk01 - ForwardsLeft
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DummyRig
+        weight: 1
+      - path: DummyRig/root
+        weight: 1
+      - path: DummyRig/root/B-hips
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck/B-head
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck/B-head/B-jaw
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L/B-f_index_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L/B-f_index_02_L/B-f_index_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L/B-thumb_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L/B-thumb_02_L/B-thumb_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L/B-f_middle_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L/B-f_middle_02_L/B-f_middle_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L/B-f_ring_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L/B-f_ring_02_L/B-f_ring_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L/B-f_pinky_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L/B-f_pinky_02_L/B-f_pinky_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R/B-f_index_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R/B-f_index_02_R/B-f_index_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R/B-thumb_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R/B-thumb_02_R/B-thumb_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R/B-f_middle_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R/B-f_middle_02_R/B-f_middle_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R/B-f_ring_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R/B-f_ring_02_R/B-f_ring_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R/B-f_pinky_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R/B-f_pinky_02_R/B-f_pinky_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L/B-foot_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L/B-foot_L/B-toe_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R/B-foot_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R/B-foot_R/B-toe_R
+        weight: 1
+      - path: Retargeters
+        weight: 1
+      - path: Retargeters/LeftHandIK
+        weight: 1
+      - path: Retargeters/LeftHandProp
+        weight: 1
+      - path: Retargeters/RightHandIK
+        weight: 1
+      - path: Retargeters/RightHandProp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BasicMotions@Walk01 - ForwardsRight
+      takeName: BasicMotions@Walk01 - ForwardsRight
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DummyRig
+        weight: 1
+      - path: DummyRig/root
+        weight: 1
+      - path: DummyRig/root/B-hips
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck/B-head
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck/B-head/B-jaw
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L/B-f_index_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L/B-f_index_02_L/B-f_index_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L/B-thumb_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L/B-thumb_02_L/B-thumb_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L/B-f_middle_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L/B-f_middle_02_L/B-f_middle_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L/B-f_ring_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L/B-f_ring_02_L/B-f_ring_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L/B-f_pinky_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L/B-f_pinky_02_L/B-f_pinky_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R/B-f_index_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R/B-f_index_02_R/B-f_index_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R/B-thumb_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R/B-thumb_02_R/B-thumb_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R/B-f_middle_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R/B-f_middle_02_R/B-f_middle_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R/B-f_ring_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R/B-f_ring_02_R/B-f_ring_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R/B-f_pinky_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R/B-f_pinky_02_R/B-f_pinky_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L/B-foot_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L/B-foot_L/B-toe_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R/B-foot_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R/B-foot_R/B-toe_R
+        weight: 1
+      - path: Retargeters
+        weight: 1
+      - path: Retargeters/LeftHandIK
+        weight: 1
+      - path: Retargeters/LeftHandProp
+        weight: 1
+      - path: Retargeters/RightHandIK
+        weight: 1
+      - path: Retargeters/RightHandProp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BasicMotions@Walk01 - Left
+      takeName: BasicMotions@Walk01 - Left
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DummyRig
+        weight: 1
+      - path: DummyRig/root
+        weight: 1
+      - path: DummyRig/root/B-hips
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck/B-head
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck/B-head/B-jaw
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L/B-f_index_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L/B-f_index_02_L/B-f_index_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L/B-thumb_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L/B-thumb_02_L/B-thumb_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L/B-f_middle_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L/B-f_middle_02_L/B-f_middle_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L/B-f_ring_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L/B-f_ring_02_L/B-f_ring_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L/B-f_pinky_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L/B-f_pinky_02_L/B-f_pinky_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R/B-f_index_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R/B-f_index_02_R/B-f_index_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R/B-thumb_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R/B-thumb_02_R/B-thumb_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R/B-f_middle_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R/B-f_middle_02_R/B-f_middle_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R/B-f_ring_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R/B-f_ring_02_R/B-f_ring_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R/B-f_pinky_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R/B-f_pinky_02_R/B-f_pinky_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L/B-foot_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L/B-foot_L/B-toe_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R/B-foot_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R/B-foot_R/B-toe_R
+        weight: 1
+      - path: Retargeters
+        weight: 1
+      - path: Retargeters/LeftHandIK
+        weight: 1
+      - path: Retargeters/LeftHandProp
+        weight: 1
+      - path: Retargeters/RightHandIK
+        weight: 1
+      - path: Retargeters/RightHandProp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BasicMotions@Walk01 - Right
+      takeName: BasicMotions@Walk01 - Right
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DummyRig
+        weight: 1
+      - path: DummyRig/root
+        weight: 1
+      - path: DummyRig/root/B-hips
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck/B-head
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck/B-head/B-jaw
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L/B-f_index_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L/B-f_index_02_L/B-f_index_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L/B-thumb_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L/B-thumb_02_L/B-thumb_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L/B-f_middle_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L/B-f_middle_02_L/B-f_middle_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L/B-f_ring_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L/B-f_ring_02_L/B-f_ring_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L/B-f_pinky_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L/B-f_pinky_02_L/B-f_pinky_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R/B-f_index_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R/B-f_index_02_R/B-f_index_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R/B-thumb_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R/B-thumb_02_R/B-thumb_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R/B-f_middle_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R/B-f_middle_02_R/B-f_middle_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R/B-f_ring_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R/B-f_ring_02_R/B-f_ring_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R/B-f_pinky_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R/B-f_pinky_02_R/B-f_pinky_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L/B-foot_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L/B-foot_L/B-toe_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R/B-foot_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R/B-foot_R/B-toe_R
+        weight: 1
+      - path: Retargeters
+        weight: 1
+      - path: Retargeters/LeftHandIK
+        weight: 1
+      - path: Retargeters/LeftHandProp
+        weight: 1
+      - path: Retargeters/RightHandIK
+        weight: 1
+      - path: Retargeters/RightHandProp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BasicMotions@Walk01 - Backwards
+      takeName: BasicMotions@Walk01 - Backwards
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DummyRig
+        weight: 1
+      - path: DummyRig/root
+        weight: 1
+      - path: DummyRig/root/B-hips
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck/B-head
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck/B-head/B-jaw
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L/B-f_index_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L/B-f_index_02_L/B-f_index_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L/B-thumb_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L/B-thumb_02_L/B-thumb_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L/B-f_middle_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L/B-f_middle_02_L/B-f_middle_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L/B-f_ring_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L/B-f_ring_02_L/B-f_ring_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L/B-f_pinky_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L/B-f_pinky_02_L/B-f_pinky_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R/B-f_index_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R/B-f_index_02_R/B-f_index_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R/B-thumb_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R/B-thumb_02_R/B-thumb_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R/B-f_middle_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R/B-f_middle_02_R/B-f_middle_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R/B-f_ring_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R/B-f_ring_02_R/B-f_ring_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R/B-f_pinky_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R/B-f_pinky_02_R/B-f_pinky_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L/B-foot_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L/B-foot_L/B-toe_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R/B-foot_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R/B-foot_R/B-toe_R
+        weight: 1
+      - path: Retargeters
+        weight: 1
+      - path: Retargeters/LeftHandIK
+        weight: 1
+      - path: Retargeters/LeftHandProp
+        weight: 1
+      - path: Retargeters/RightHandIK
+        weight: 1
+      - path: Retargeters/RightHandProp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BasicMotions@Walk01 - BackwardsLeft
+      takeName: BasicMotions@Walk01 - BackwardsLeft
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DummyRig
+        weight: 1
+      - path: DummyRig/root
+        weight: 1
+      - path: DummyRig/root/B-hips
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck/B-head
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck/B-head/B-jaw
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L/B-f_index_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L/B-f_index_02_L/B-f_index_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L/B-thumb_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L/B-thumb_02_L/B-thumb_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L/B-f_middle_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L/B-f_middle_02_L/B-f_middle_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L/B-f_ring_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L/B-f_ring_02_L/B-f_ring_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L/B-f_pinky_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L/B-f_pinky_02_L/B-f_pinky_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R/B-f_index_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R/B-f_index_02_R/B-f_index_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R/B-thumb_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R/B-thumb_02_R/B-thumb_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R/B-f_middle_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R/B-f_middle_02_R/B-f_middle_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R/B-f_ring_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R/B-f_ring_02_R/B-f_ring_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R/B-f_pinky_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R/B-f_pinky_02_R/B-f_pinky_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L/B-foot_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L/B-foot_L/B-toe_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R/B-foot_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R/B-foot_R/B-toe_R
+        weight: 1
+      - path: Retargeters
+        weight: 1
+      - path: Retargeters/LeftHandIK
+        weight: 1
+      - path: Retargeters/LeftHandProp
+        weight: 1
+      - path: Retargeters/RightHandIK
+        weight: 1
+      - path: Retargeters/RightHandProp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BasicMotions@Walk01 - BackwardsRight
+      takeName: BasicMotions@Walk01 - BackwardsRight
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DummyRig
+        weight: 1
+      - path: DummyRig/root
+        weight: 1
+      - path: DummyRig/root/B-hips
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck/B-head
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-neck/B-head/B-jaw
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L/B-f_index_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-f_index_01_L/B-f_index_02_L/B-f_index_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L/B-thumb_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_01_L/B-thumb_01_L/B-thumb_02_L/B-thumb_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L/B-f_middle_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_02_L/B-f_middle_01_L/B-f_middle_02_L/B-f_middle_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L/B-f_ring_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_03_L/B-f_ring_01_L/B-f_ring_02_L/B-f_ring_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L/B-f_pinky_02_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_L/B-upper_arm_L/B-forearm_L/B-hand_L/B-palm_04_L/B-f_pinky_01_L/B-f_pinky_02_L/B-f_pinky_03_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R/B-f_index_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-f_index_01_R/B-f_index_02_R/B-f_index_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R/B-thumb_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_01_R/B-thumb_01_R/B-thumb_02_R/B-thumb_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R/B-f_middle_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_02_R/B-f_middle_01_R/B-f_middle_02_R/B-f_middle_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R/B-f_ring_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_03_R/B-f_ring_01_R/B-f_ring_02_R/B-f_ring_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R/B-f_pinky_02_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-spine/B-chest/B-upperChest/B-shoulder_R/B-upper_arm_R/B-forearm_R/B-hand_R/B-palm_04_R/B-f_pinky_01_R/B-f_pinky_02_R/B-f_pinky_03_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L/B-foot_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_L/B-shin_L/B-foot_L/B-toe_L
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R/B-foot_R
+        weight: 1
+      - path: DummyRig/root/B-hips/B-thigh_R/B-shin_R/B-foot_R/B-toe_R
+        weight: 1
+      - path: Retargeters
+        weight: 1
+      - path: Retargeters/LeftHandIK
+        weight: 1
+      - path: Retargeters/LeftHandProp
+        weight: 1
+      - path: Retargeters/RightHandIK
+        weight: 1
+      - path: Retargeters/RightHandProp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: spine
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thigh.L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thigh.R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shin.L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shin.R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: foot.L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: foot.R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine.001
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine.002
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine.004
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine.005
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shoulder.L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shoulder.R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: upper_arm.L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: upper_arm.R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: forearm.L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: forearm.R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand.L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand.R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: toe.L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: toe.R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine.006
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine.003
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: rat(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polygon0_polygon0.009
+      parentName: rat(Clone)
+      position: {x: -0, y: 0, z: 0.00000011920929}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 100, y: 100, z: 100}
+    - name: metarig
+      parentName: rat(Clone)
+      position: {x: -0, y: 0, z: 0.95174664}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1300.2028, y: 1300.2028, z: 1300.2028}
+    - name: spine
+      parentName: metarig
+      position: {x: -0.00018838565, y: -0.0002711871, z: 0.005710698}
+      rotation: {x: 0.7184717, y: 0.004534398, z: -0.0051147826, w: 0.6955226}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: spine.001
+      parentName: spine
+      position: {x: -3.5470292e-12, y: 0.0031207444, z: 1.5097612e-12}
+      rotation: {x: -0.04589942, y: 0.00030739172, z: 0.016380085, w: 0.9988117}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: spine.002
+      parentName: spine.001
+      position: {x: 6.8343976e-11, y: 0.0035746614, z: -2.8380782e-11}
+      rotation: {x: 0.024957662, y: 0.00034099858, z: -0.027014356, w: 0.99932337}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: spine.003
+      parentName: spine.002
+      position: {x: -2.150955e-11, y: 0.0015028882, z: 5.3614712e-12}
+      rotation: {x: -0.033530045, y: 0.00060456624, z: 0.03635204, w: 0.9987762}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: spine.004
+      parentName: spine.003
+      position: {x: -0.00004379974, y: 0.003101905, z: -0.00002344624}
+      rotation: {x: 0.22512187, y: -0.00461072, z: -0.018348303, w: 0.9741469}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: spine.005
+      parentName: spine.004
+      position: {x: 2.4980017e-18, y: 0.00066163484, z: -3.7252902e-11}
+      rotation: {x: -0.09485748, y: 0.0000000015520819, z: 5.864282e-10, w: 0.9954909}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine.006
+      parentName: spine.005
+      position: {x: -1.0784997e-18, y: 0.00062701234, z: 2.6077032e-10}
+      rotation: {x: -0.09371197, y: 3.5685337e-16, z: 1.00499433e-16, w: 0.9955994}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: spine.006_end
+      parentName: spine.006
+      position: {x: -0, y: 0.001983, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulder.L
+      parentName: spine.003
+      position: {x: -0.00024954675, y: 0.0025188103, z: 0.0007314863}
+      rotation: {x: -0.5442268, y: 0.4089758, z: 0.39521277, w: 0.61673564}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: upper_arm.L
+      parentName: shoulder.L
+      position: {x: -0.00007791522, y: 0.0020079094, z: -0.00020384982}
+      rotation: {x: 0.10113618, y: -0.71330357, z: 0.15855782, w: 0.67515105}
+      scale: {x: 1, y: 1, z: 1}
+    - name: forearm.L
+      parentName: upper_arm.L
+      position: {x: 6.0303135e-10, y: 0.002785134, z: -1.8626451e-11}
+      rotation: {x: 0.008342365, y: -0.011425169, z: -0.05261376, w: 0.9985147}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: hand.L
+      parentName: forearm.L
+      position: {x: -7.497147e-10, y: 0.0036687541, z: -8.381903e-11}
+      rotation: {x: -0.041713037, y: -0.022461208, z: 0.0812137, w: 0.9955702}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hand.L_end
+      parentName: hand.L
+      position: {x: -0, y: 0.00260188, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulder.R
+      parentName: spine.003
+      position: {x: 0.00011619117, y: 0.0025049667, z: 0.00073175033}
+      rotation: {x: -0.5410484, y: -0.40277067, z: -0.43854982, w: 0.5938994}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: upper_arm.R
+      parentName: shoulder.R
+      position: {x: -0.000057635163, y: 0.0022001362, z: -0.000111123656}
+      rotation: {x: 0.07854255, y: 0.7083762, z: -0.14261432, w: 0.68680084}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: forearm.R
+      parentName: upper_arm.R
+      position: {x: 1.3540556e-10, y: 0.0030980688, z: 9.3132255e-12}
+      rotation: {x: 0.013315846, y: -0.0027490847, z: 0.050620295, w: 0.9986254}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: hand.R
+      parentName: forearm.R
+      position: {x: -8.9872626e-10, y: 0.0029085842, z: -1.11758706e-10}
+      rotation: {x: -0.11442296, y: -0.12224656, z: -0.0661871, w: 0.9836577}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: hand.R_end
+      parentName: hand.R
+      position: {x: -0, y: 0.0024822094, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: breast.L
+      parentName: spine.003
+      position: {x: -0.0013004009, y: 0.001196249, z: -0.0005460602}
+      rotation: {x: 0.012588952, y: 0.6794208, z: 0.7335049, w: 0.014122238}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999999}
+    - name: breast.L_end
+      parentName: breast.L
+      position: {x: -0, y: 0.001392, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: breast.R
+      parentName: spine.003
+      position: {x: 0.0010659035, y: 0.0011066821, z: -0.0005443509}
+      rotation: {x: 0.012588936, y: 0.6794208, z: 0.7335049, w: 0.014122253}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999999}
+    - name: breast.R_end
+      parentName: breast.R
+      position: {x: -0, y: 0.001392, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pelvis.L
+      parentName: spine
+      position: {x: -0.00030634098, y: -0.00029545126, z: 0.00004639028}
+      rotation: {x: -0.099933885, y: 0.7568323, z: 0.37446025, w: 0.5263056}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: pelvis.L_end
+      parentName: pelvis.L
+      position: {x: -0, y: 0.0020733816, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pelvis.R
+      parentName: spine
+      position: {x: 0.00018826759, y: -0.00028771462, z: 0.00006701378}
+      rotation: {x: -0.08999867, y: -0.7575752, z: -0.36714727, w: 0.5321494}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.9999999}
+    - name: pelvis.R_end
+      parentName: pelvis.R
+      position: {x: -0, y: 0.0020733816, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: thigh.L
+      parentName: spine
+      position: {x: -0.0019810302, y: 0.00089760736, z: -0.00051580934}
+      rotation: {x: 0.9900056, y: -0.03946978, z: -0.020370234, w: 0.13385099}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000032}
+    - name: shin.L
+      parentName: thigh.L
+      position: {x: 2.840534e-10, y: 0.0035909694, z: -3.7252902e-11}
+      rotation: {x: 0.34427404, y: 0.023446914, z: 0.0004722141, w: 0.9385763}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: foot.L
+      parentName: shin.L
+      position: {x: 2.0256266e-10, y: 0.003503463, z: -7.4505804e-11}
+      rotation: {x: 0.81732, y: -0.110387705, z: 0.19149101, w: -0.5321032}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999998}
+    - name: toe.L
+      parentName: foot.L
+      position: {x: 1.5133991e-10, y: 0.0027333838, z: -4.6566128e-12}
+      rotation: {x: -0.060241934, y: 0.980923, z: -0.01817103, w: 0.1839316}
+      scale: {x: 1, y: 1.0000005, z: 0.99999994}
+    - name: toe.L_end
+      parentName: toe.L
+      position: {x: -0, y: 0.0021617347, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: heel.02.L
+      parentName: foot.L
+      position: {x: 0.0017584702, y: 0.0012787856, z: 0.00078229205}
+      rotation: {x: -0.69534343, y: 0.6977383, z: -0.13643274, w: 0.10509524}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: heel.02.L_end
+      parentName: heel.02.L
+      position: {x: -0, y: 0.0008, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: thigh.R
+      parentName: spine
+      position: {x: 0.0023324501, y: 0.00088897225, z: -0.00047488275}
+      rotation: {x: 0.9886863, y: 0.06264107, z: -0.003843924, w: 0.13623767}
+      scale: {x: 1.0000001, y: 1, z: 1.0000008}
+    - name: shin.R
+      parentName: thigh.R
+      position: {x: 2.1071173e-10, y: 0.0033835762, z: 4.6566128e-12}
+      rotation: {x: 0.33083665, y: 0.08502379, z: 0.10705477, w: 0.93373305}
+      scale: {x: 1, y: 1, z: 1}
+    - name: foot.R
+      parentName: shin.R
+      position: {x: 4.6566126e-11, y: 0.0033777717, z: -1.4901161e-10}
+      rotation: {x: 0.86143196, y: 0.10241021, z: 0.035267815, w: -0.4961889}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: toe.R
+      parentName: foot.R
+      position: {x: -0, y: 0.0030173557, z: 2.7939677e-11}
+      rotation: {x: 0.046383325, y: 0.9792416, z: 0.19685896, w: -0.013454952}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: toe.R_end
+      parentName: toe.R
+      position: {x: -0, y: 0.0015475752, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: heel.02.R
+      parentName: foot.R
+      position: {x: -0.0017698051, y: 0.00086572755, z: 0.000784238}
+      rotation: {x: 0.6721765, y: 0.7345533, z: -0.039280932, w: -0.08406701}
+      scale: {x: 0.99999994, y: 1.0000002, z: 0.9999999}
+    - name: heel.02.R_end
+      parentName: heel.02.R
+      position: {x: -0, y: 0.0008, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 20f889c9a72b61f49970cdc3396f480e, type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
